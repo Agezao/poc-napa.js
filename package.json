@@ -1,0 +1,14 @@
+{
+  "name": "testing-napa.js",
+  "version": "1.0.0",
+  "description": "Testing the new multi-threaded runtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Age",
+  "license": "MIT",
+  "dependencies": {
+    "napajs": "^0.1.3"
+  }
+}
